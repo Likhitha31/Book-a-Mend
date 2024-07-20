@@ -1,5 +1,6 @@
 BOOK’A’MEND CODE
 MMAIN WINDOW CODE:
+
 from PyQt5 import QtCore, QtGui, QtWidgets
 import mysql.connector
 from screen2 import Ui_Form
